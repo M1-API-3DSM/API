@@ -22,6 +22,7 @@ A SIATT enfrenta um desafio significativo na gestão de seus projetos de sistema
 # Sobre a API <a id="api"></a>
 
 ### Sprint 1: <a id="s1"></a>
+Durante a Sprint 1 a equipe está desenvolvendo a criação de novos projetos com a importações de arquivos Excel de acordo com o padrão apresentado no documento de requisitos. Os eforços maiores estão sendo colocados na leitura e organização dos dados e sua exibição para os usuários finais.
 
 # Product Backlog Total: <a id="backlog"></a>
 
