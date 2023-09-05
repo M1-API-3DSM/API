@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/M1-API-3DSM/Back-End.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/M1-API-3DSM/Front-End.git
