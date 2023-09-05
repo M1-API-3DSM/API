@@ -13,7 +13,9 @@
 <hr>
 
 # Sobre o Projeto <a id="sobre"></a>
-A SIATT enfrenta um desafio significativo na gestão de seus projetos de sistemas complexos. O atual processo de gerenciamento envolve uma série de tarefas manuais, desde a divisão de projetos em subsistemas até a geração de documentos. Nesse contexto, o desafio central é desenvolver um 'Software para Gestão de Times de Projetos Complexos' que simplificará e automatizará essas tarefas, aumentando a eficiência e a precisão em todos os aspectos da gestão de projetos complexos.
+O problema central enfrentado pela SIATT é a gestão manual e descentralizada de projetos de sistemas complexos. O processo atual, que envolve a divisão de projetos em subsistemas, atribuição de tarefas, planejamento de atividades, acompanhamento de progresso e geração de documentação, é demorado, suscetível a erros e não proporciona uma visão em tempo real do estado dos projetos. Isso cria desafios significativos em termos de eficiência e precisão na gestão de projetos complexos.
+
+A solução proposta para esse problema é o desenvolvimento de um "Software para Gestão de Times de Projetos Complexos". Esse software será uma plataforma abrangente que automatizará e centralizará todas as etapas do processo de gerenciamento de projetos complexos. Ele incluirá funcionalidades como divisão hierárquica de projetos, atribuição de tarefas, planejamento de atividades, acompanhamento de progresso, geração de documentação automatizada, relatórios detalhados e um portal de intranet para acesso fácil. Essa solução visa aumentar a eficiência, reduzir erros e proporcionar uma visão abrangente e em tempo real do progresso dos projetos.
 
 
 
