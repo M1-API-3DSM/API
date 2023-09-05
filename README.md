@@ -15,9 +15,7 @@
 # Sobre o Projeto <a id="sobre"></a>
 A SIATT enfrenta um desafio significativo na gestão de seus projetos de sistemas complexos. O atual processo de gerenciamento envolve uma série de tarefas manuais, desde a divisão de projetos em subsistemas até a geração de documentos. Nesse contexto, o desafio central é desenvolver um 'Software para Gestão de Times de Projetos Complexos' que simplificará e automatizará essas tarefas, aumentando a eficiência e a precisão em todos os aspectos da gestão de projetos complexos.
 
-<a href="https://github.com/M1-API-3DSM/Back-End"> BackEnd </a>
 
-<a href="https://github.com/M1-API-3DSM/Front-End"> FrontEnd </a>
 
 # Sobre a API <a id="api"></a>
 
@@ -26,6 +24,19 @@ Durante a Sprint 1 a equipe está desenvolvendo a criação de novos projetos co
 
 # Product Backlog Total: <a id="backlog"></a>
 
+| ID | Priorização | Descrição                                                                                      |
+|:---:|:-----------:|:----------------------------------------------------------------------------------------------:|
+| 2  | Alta        | Leitura de arquivo Excel com partes do sistema em diferentes níveis.                           |
+| 3  | Alta        | Leitura de arquivo Excel com lista de recursos (pessoas).                                      |
+| 10 | Alta        | Criação de projetos pelo chefe                                                                 |
+| 1  | Baixa       | Acesso via browser, com login e senha.                                                         |
+| 4  | Média       | Inserção de atividades e prazos para cronograma (gráfico Gantt).                               |
+| 5  | Média       | Entrada da quantidade de avanço para cada nível do ID2.                                        |
+| 6  | Média       | Salvamento do trabalho em andamento.                                                           |
+| 7  | Média       | Apresentação de um gráfico estilo Gantt na tela (cronograma).                                  |
+| 8  | Alta        | Apresentação de um gráfico com avanço do projeto na tela (curva "S", planejado vs. executado). |
+| 9  | Méida       | Geração de arquivo Excel com status de avanço em cada nível do ID2.                            |
+| 11 | Baixa       | Níveis de acesso entre usuarios                                                                |
 
 
 
