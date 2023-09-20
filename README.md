@@ -17,7 +17,7 @@ O problema central enfrentado pela SIATT é a gestão manual e descentralizada d
 
 A solução proposta para esse problema é o desenvolvimento de um "Software para Gestão de Times de Projetos Complexos". Esse software será uma plataforma abrangente que automatizará e centralizará todas as etapas do processo de gerenciamento de projetos complexos. Ele incluirá funcionalidades como divisão hierárquica de projetos, atribuição de tarefas, planejamento de atividades, acompanhamento de progresso, geração de documentação automatizada, relatórios detalhados e um portal de intranet para acesso fácil. Essa solução visa aumentar a eficiência, reduzir erros e proporcionar uma visão abrangente e em tempo real do progresso dos projetos.
 
-
+Para um fácil acesso ao código e o que está sendo feito no BackEnd e FrontEnd dois links estão presentes que ao clicar você será levado a branch da atual entrega da Sprint. 
 
 # Sobre a API <a id="api"></a>
 
@@ -26,19 +26,19 @@ Durante a Sprint 1 a equipe está desenvolvendo a criação de novos projetos co
 
 # Product Backlog Total: <a id="backlog"></a>
 
-| ID | Priorização | Descrição                                                                                      |
-|:---:|:-----------:|:----------------------------------------------------------------------------------------------:|
-| 2  | Alta        | Leitura de arquivo Excel com partes do sistema em diferentes níveis.                           |
-| 3  | Alta        | Leitura de arquivo Excel com lista de recursos (pessoas).                                      |
-| 10 | Alta        | Criação de projetos pelo chefe                                                                 |
-| 1  | Baixa       | Acesso via browser, com login e senha.                                                         |
-| 4  | Média       | Inserção de atividades e prazos para cronograma (gráfico Gantt).                               |
-| 5  | Média       | Entrada da quantidade de avanço para cada nível do ID2.                                        |
-| 6  | Média       | Salvamento do trabalho em andamento.                                                           |
-| 7  | Média       | Apresentação de um gráfico estilo Gantt na tela (cronograma).                                  |
-| 8  | Alta        | Apresentação de um gráfico com avanço do projeto na tela (curva "S", planejado vs. executado). |
-| 9  | Méida       | Geração de arquivo Excel com status de avanço em cada nível do ID2.                            |
-| 11 | Baixa       | Níveis de acesso entre usuarios                                                                |
+| ID | Priorização | Descrição                                                                                      | Sprint |
+|:---:|:-----------:|:----------------------------------------------------------------------------------------------:|:-----:|
+| 2  | Alta        | Leitura de arquivo Excel com partes do sistema em diferentes níveis.                           |   1   |
+| 3  | Alta        | Leitura de arquivo Excel com lista de recursos (pessoas).                                      |   1   |
+| 10 | Alta        | Criação de projetos pelo chefe                                                                 |   1   |
+| 1  | Média       | Acesso via browser, com login e senha.                                                         |   2   |
+| 4  | Média       | Inserção de atividades e prazos para cronograma (gráfico Gantt).                               |   2   |
+| 5  | Média       | Entrada da quantidade de avanço para cada nível do ID2.                                        |   2   |
+| 6  | Média       | Salvamento do trabalho em andamento.                                                           |   3   |
+| 7  | Média       | Apresentação de um gráfico estilo Gantt na tela (cronograma).                                  |   3   |
+| 8  | Média       | Apresentação de um gráfico com avanço do projeto na tela (curva "S", planejado vs. executado). |   3   |
+| 9  | Baixa       | Geração de arquivo Excel com status de avanço em cada nível do ID2.                            |   4   |
+| 11 | Baixa       | Níveis de acesso entre usuarios                                                                |   4   |
 
 
 
