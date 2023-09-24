@@ -24,6 +24,9 @@ Para um fácil acesso ao código e o que está sendo feito no BackEnd e FrontEnd
 ### Sprint 1: <a id="s1"></a>
 Durante a Sprint 1 a equipe está desenvolvendo a criação de novos projetos com a importações de arquivos Excel de acordo com o padrão apresentado no documento de requisitos. Os eforços maiores estão sendo colocados na leitura e organização dos dados e sua exibição para os usuários finais.
 
+Para fins de demonstração logo abaixo está o gif que mostra as funcionalidades da 1° Sprint.
+![Gif primeira Sprint](doc/2023-09-24%2020-05-05.gif)
+
 # Product Backlog Total: <a id="backlog"></a>
 
 | ID | Priorização | Descrição                                                                                      | Sprint |
